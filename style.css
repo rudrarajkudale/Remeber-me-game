@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.d{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin : 3vh
+}
+.container{
+    display:flex;
+   justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color: pink;
+}
+.flash
+{
+    background-color: white;
+}
+.userflash
+{
+    background-color: black;
+}
